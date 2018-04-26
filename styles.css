@@ -6,14 +6,18 @@ dt {
     font-weight: 900;
 }
 
+bio-photo {
+    width: 25%;
+    float: right;
+    background:
+}
 /*Sidebar Styles */
 #sidebar {
     float: right;
     width: 25%;
     background: pink;
     margin: 25px;
-    padding: 10px;
-    
+    padding: 10px;    
 }
 
 /*Navigation Styles */
@@ -34,4 +38,10 @@ nav ul li {
 table {
     text-align: left;
     width: 100%
+}
+
+/*Bibliography*/
+
+ul.bibliography {
+    display: inline;
 }
