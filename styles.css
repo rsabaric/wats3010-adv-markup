@@ -1,6 +1,5 @@
 /* Styles for the Advanced Markup assignment. */
 
-
 /*About Page Styles */
 dt {
     font-weight: 900;
@@ -85,6 +84,6 @@ ul.poem {
 /*Bibliography */
 UL.bibliography {
     display: inline; 
-    line-height: 1.2rem;
+    line-height: 1.3rem;
 }
 
