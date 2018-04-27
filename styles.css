@@ -52,7 +52,13 @@ nav ul li {
 
 table {
     text-align: left;
-    width: 100%
+    width: 100%;
+}
+
+table, th, td {
+    padding: 7px;
+    border: 1px solid #ddd;
+    border-collapse: collapse;
 }
 
 /*Fonts and headings */
