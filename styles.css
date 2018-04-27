@@ -95,3 +95,12 @@ UL.bibliography {
     line-height: 1.3rem;
 }
 
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
