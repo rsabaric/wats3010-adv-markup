@@ -35,6 +35,10 @@ dt {
     padding:5px;
 }
 
+dt {
+    padding-bottom: .25rem;
+}
+
 /*Navigation Styles */
 nav ul li {
     display: inline;
